@@ -12,7 +12,14 @@ The ultimate purpose is to turn job interview coding algorithms into something t
 * Main Wiki Page: [Coed Algorithm Group](https://noisebridge.net/wiki/(affiliated_with)_Women_Who_Code_Algorithms_Study_Group#Notes)
 * Slack Channel https://noisebridge.slack.com/messages/algorithms/
 
+---
+
+## Class Notes
+
+* [6/21/15 Notes](notes/2015-06-21_notes.md) Beginning graph theory and implementation
+
 ![Twos complement](images/600px-AlgorithmTwosComplement.jpg)
+
 
 
 
