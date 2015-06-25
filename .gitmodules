@@ -1,0 +1,3 @@
+[submodule "resources/guidelines-resources"]
+	path = resources/guidelines-resources
+	url = https://github.com/WomenWhoCode/guidelines-resources
